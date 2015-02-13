@@ -1,0 +1,11 @@
+C:\Users\Jen\documents\visual studio 2013\Projects\Mass Flow Controller\Mass Flow Controller\bin\Debug\Mass Flow Controller.exe.config
+C:\Users\Jen\documents\visual studio 2013\Projects\Mass Flow Controller\Mass Flow Controller\bin\Debug\Mass Flow Controller.exe
+C:\Users\Jen\documents\visual studio 2013\Projects\Mass Flow Controller\Mass Flow Controller\bin\Debug\Mass Flow Controller.pdb
+C:\Users\Jen\documents\visual studio 2013\Projects\Mass Flow Controller\Mass Flow Controller\obj\Debug\Mass_Flow_Controller.Form1.resources
+C:\Users\Jen\documents\visual studio 2013\Projects\Mass Flow Controller\Mass Flow Controller\obj\Debug\Mass_Flow_Controller.Properties.Resources.resources
+C:\Users\Jen\documents\visual studio 2013\Projects\Mass Flow Controller\Mass Flow Controller\obj\Debug\Mass Flow Controller.csproj.GenerateResource.Cache
+C:\Users\Jen\documents\visual studio 2013\Projects\Mass Flow Controller\Mass Flow Controller\obj\Debug\Mass Flow Controller.exe
+C:\Users\Jen\documents\visual studio 2013\Projects\Mass Flow Controller\Mass Flow Controller\obj\Debug\Mass Flow Controller.pdb
+C:\Users\Jen\documents\visual studio 2013\Projects\Mass Flow Controller\Mass Flow Controller\obj\Debug\Mass Flow Controller.csprojResolveAssemblyReference.cache
+C:\Users\Jen\documents\visual studio 2013\Projects\Mass Flow Controller\Mass Flow Controller\bin\Debug\AsyncBridge.Portable.dll
+C:\Users\Jen\documents\visual studio 2013\Projects\Mass Flow Controller\Mass Flow Controller\bin\Debug\AsyncBridge.Portable.xml
